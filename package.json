@@ -1,0 +1,22 @@
+{
+  "name": "hapijs-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilsyah/hapijs-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilsyah/hapijs-mysql/issues"
+  },
+  "homepage": "https://github.com/danilsyah/hapijs-mysql#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2"
+  }
+}
